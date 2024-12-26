@@ -1,33 +1,26 @@
-### Hi there 👋
-# I'm Luciano
+### Olá, eu sou o Luciano👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Analista de dados,  <br> Analista de BI
+
+Sobre mim:
+
+- 🔍 Busco minha primeira oportunidade como Analista de Dados.
+- 🚀 Focado em desenvolver habilidades em SQL e visualização de dados.
+- 🤓 Dedico-me a aprender, praticar e criar insights valiosos a partir de dados
+
+Principais Ferramentas:
+
+<div style="display: inline_block">
+  <img align="center" alt="SQL" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/logo.png?raw=true">
+  <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
+</div>
+
+<br>
 
 
-
-
-
-
-
-
-<!--
-**LucianoSantanna/LucianoSantanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Onde podem me encontrar:
+<div>
+  <a href="https://www.linkedin.com/in/luciano-santanna-89595a200/">
+    <img align="center" alt="" height="40" width="40" src="https://github.com/LucianoSantanna/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
+  </a>
+</div>
