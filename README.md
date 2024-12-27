@@ -30,7 +30,7 @@ Onde podem me encontrar:
 ## Portfolio e Principais Projetos
 ### Contoso Sales Dashboard
 <img align="right" width="520"  src="https://github.com/LucianoSantanna/ContosoPortfolio/blob/main/IMAGENS/Dashboard.png?raw=true">
-Desenvolvi um dashboard durante o curso do Prof. Bruce Fonseca utilizando Power BI para identificar os principais fatores que influenciam as vendas da empresa Contoso. Essa ferramenta possibilita análises dinâmicas e facilita o compartilhamento das informações com os responsáveis pela tomada de decisões.<br>
+Dashboard desenvolvido no curso do Prof. Bruce Fonseca com Power BI para analisar fatores que impactam as vendas da Contoso.<br>
 Principais problemas relatados pelo requisitante:<br>
 - Dificuldade de exportar os dados do sistema atual e manipular as informações em planilhas, macros e tabelas dinâmicas.<br>
 - Segmentar dados por filiais, categorias, produtos e períodos de tempo de uma forma simples, dinâmica e fácil de compartilhar.<br>
