@@ -38,6 +38,6 @@ Principais problemas relatados pelo requisitante:<br>
 <br><br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiOGExODk4ZjktODYwNC00MzdhLWExMzAtYTA5MTA4MmEzOGZmIiwidCI6ImUyNDJkYTI1LTQ2YWQtNGFkOC1iYTM4LTFkZDAzZDgwNzdjMCJ9" target="_blank">Clique aqui</a> e acesse a solução desenvolvida para o cliente.
 <br>
-<a href="https://github.com/LucianoSantanna/ContosoPortfolio" target="_blank">Clique aqui</a> e acesse o repositório no GitHub.
+<a href="https://github.com/LucianoSantanna/ContosoPortfolio/blob/main/README.md" target="_blank">Clique aqui</a> e acesse o repositório no GitHub.
 
 <br><br>
