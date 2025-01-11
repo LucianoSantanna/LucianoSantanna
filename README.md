@@ -4,8 +4,8 @@
 
 Sobre mim:
 
-- 🔍 Busco minha primeira oportunidade como Analista de Dados.
-- 🚀 Focado em desenvolver habilidades em SQL e visualização de dados.
+- 🔍 Estou aberto a oportunidades na área de dados.
+- 🚀 Focado em desenvolver projetos em SQL e visualização de dados.
 - 🤓 Dedico-me a aprender, praticar e criar insights valiosos a partir de dados
 
 Principais Ferramentas:
