@@ -1,6 +1,6 @@
 ### Olá, eu sou o Luciano👋
 
-## Analista de dados,  <br> Analista de BI
+## Futuro DEV
 
 Sobre mim:
 
