@@ -4,9 +4,9 @@
 
 Sobre mim:
 
-- 🔍 Estou aberto a oportunidades na área de dados.
-- 🚀 Focado em desenvolver projetos em SQL e visualização de dados.
-- 🤓 Dedico-me a aprender, praticar e criar insights valiosos a partir de dados
+- 🔍 Estou aberto a oportunidades na área de TI/Dados.
+- 🚀 Focado em desenvolver projetos em SQL, visualização de dados e WEB.
+- 🤓 Dedico-me a aprender, praticar e crescer junto com a empresa.
 
 Principais Ferramentas:
 
