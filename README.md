@@ -30,11 +30,13 @@ Onde podem me encontrar:
 </div>
 
 <h2>📌 Principais Projetos</h2>
-<div>
-  <a href="https://www.linkedin.com/in/luciano-santanna-89595a200/">
-    <img align="center" alt="libft">
-  </a>
-  <a href="https://www.linkedin.com/in/luciano-santanna-89595a200/">
-    <img align="center" alt="contoso">
-  </a>
-</div>
+
+<ul>
+  <li>
+    <a href="LINK_LIBFT">Libft</a> - Implementação de funções fundamentais da linguagem C.
+  </li>
+
+  <li>
+    <a href="LINK_CONTOSO">Dashboard de Vendas</a> - Projeto utilizando SQL e Power BI.
+  </li>
+</ul>
