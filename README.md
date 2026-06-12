@@ -33,7 +33,7 @@ Onde podem me encontrar:
 
 <ul>
   <li>
-    <a href="LINK_LIBFT">Libft</a> - Implementação de funções fundamentais da linguagem C.
+    <a href="https://github.com/LucianoSantanna/libft">Libft</a> - Implementação de funções fundamentais da linguagem C.
   </li>
 
   <li>
