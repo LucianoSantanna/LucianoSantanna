@@ -1,12 +1,14 @@
 ### Olá, eu sou o Luciano👋
 
-## Software Engineer Student
+## ADS Student | FATEC-SP & 42 São Paulo
 
-Sobre mim:
+Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC São Paulo e cadete da 42 São Paulo.
+Atualmente desenvolvo projetos envolvendo desenvolvimento de software, bancos de dados e análise de dados. 
+Tenho experiência prática com C, SQL, Python e Power BI por meio de projetos acadêmicos e pessoais.
 
 - 🔍 Estou aberto a oportunidades na área de TI.
-- 🚀 Possuo experiência com C, SQL e Python por meio de projetos acadêmicos e práticos.
-- 🤓 Dedico-me a aprender, praticar e crescer junto com a empresa.
+- 🚀 Desenvolvo projetos para aprimorar minhas habilidades técnicas e de resolução de problemas.
+- 🤓 Acredito no aprendizado contínuo e na evolução através da prática.
 
 Principais Ferramentas:
 
@@ -23,6 +25,16 @@ Principais Ferramentas:
 Onde podem me encontrar:
 <div>
   <a href="https://www.linkedin.com/in/luciano-santanna-89595a200/">
-    <img align="center" alt="" height="40" width="40" src="...">
+    <img align="center" alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+  </a>
+</div>
+
+<h2>📌 Principais Projetos</h2>
+<div>
+  <a href="https://www.linkedin.com/in/luciano-santanna-89595a200/">
+    <img align="center" alt="libft">
+  </a>
+  <a href="https://www.linkedin.com/in/luciano-santanna-89595a200/">
+    <img align="center" alt="contoso">
   </a>
 </div>
