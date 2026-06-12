@@ -37,6 +37,6 @@ Onde podem me encontrar:
   </li>
 
   <li>
-    <a href="LINK_CONTOSO">Dashboard de Vendas</a> - Projeto utilizando SQL e Power BI.
+    <a href="https://github.com/LucianoSantanna/ContosoPortfolio">Dashboard de Vendas</a> - Projeto utilizando SQL e Power BI.
   </li>
 </ul>
